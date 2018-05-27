@@ -9,7 +9,7 @@ The purpose of this project is to analysis a dataset of hepatitis patients and c
 
 ## Data Set Information
 
-The raw dataset used herein was obtained from [OpenML](https://www.openml.org/d/55). It was donated by G.Gong (Carnegie-Mellon University) via Bojan Cestnik Jozef Stefan Institute in Ljubljana and date back to November, 1988. It contains 20 features about 155 patients that had hepatitis, including whether their survive or not.
+The raw dataset used herein was obtained from [OpenML](https://www.openml.org/d/55). It was donated by G.Gong (Carnegie-Mellon University) via Bojan Cestnik Jozef Stefan Institute in Ljubljana and date back to November, 1988. 
 
 ## Analysis
 ### Objective
