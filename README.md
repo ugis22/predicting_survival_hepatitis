@@ -8,7 +8,6 @@ The purpose of this project is to analysis a dataset of hepatitis patients and c
 * a jupyter notebook that shows the analysis that was performed called `Prediction of survival in patients with hepatitis.ipynb`. 
 
 ## Data Set Information
-
 The raw dataset used herein was obtained from [OpenML](https://www.openml.org/d/55). It was donated by G.Gong (Carnegie-Mellon University) via Bojan Cestnik Jozef Stefan Institute in Ljubljana and date back to November, 1988. 
 
 ## Analysis
