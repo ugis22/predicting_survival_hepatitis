@@ -1,4 +1,8 @@
 ## Predicting survival of patients with hepatitis
+## Introduction
+
+
+
 ## Purpose
 The purpose of this project is to analysis a dataset of hepatitis patients and create a model to predict their survival. This repository includes the following main files:
 
