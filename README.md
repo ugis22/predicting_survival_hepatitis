@@ -17,8 +17,14 @@ This repository includes the following main files:
 * a jupyter notebook that shows the analysis that was performed called `Prediction of survival in patients with hepatitis.ipynb`. 
 
 ## Data Set Information
-The raw dataset used herein was obtained from [OpenML](https://www.openml.org/d/55). It was donated by G.Gong (Carnegie-Mellon University) via Bojan Cestnik Jozef Stefan Institute in Ljubljana and date back to November, 1988. 
+The csv file corresponding used herein was downloaded from [Open ML](https://www.openml.org/d/55) and more information can also be found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/hepatitis). The dataset was originally donated by G.Gong (Carnegie-Mellon University) via Bojan Cestnik Jozef Stefan Institute in Ljubljana and date back to November, 1988.  This comprise an observational study where data was collected regarding 19 different features and an extra class (DIE or LIVE) from 155 patients with chronic liver disease within an age bracket of 7-78 years. 
 
 ## Analysis
 
 
+
+
+
+
+## References
+1. Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
