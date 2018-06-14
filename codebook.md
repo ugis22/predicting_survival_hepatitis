@@ -9,20 +9,18 @@ List of the parameters and the description:
 | --------------- | ----------------------------------| ----------------------------------|
 |      Class      |                                   |            DIE, LIVE              |
 |       AGE       |                                   |   10, 20, 30, 40, 50, 60, 70, 80  |
-
-
-SEX: male, female
-STEROID: no, yes
-ANTIVIRALS: no, yes
-FATIGUE: no, yes
-MALAISE: no, yes
-ANOREXIA: no, yes
-LIVER BIG: no, yes
-LIVER FIRM: no, yes
-SPLEEN PALPABLE: no, yes
-SPIDERS: no, yes
-ASCITES: no, yes
-VARICES: no, yes
+|       SEX       |                                   |              male, female         |
+|     STEROID     |                                   |                no, yes            |
+|    ANTIVIRALS   |                                   |                no, yes            |
+|     FATIGUE     |                                   |                no, yes            |
+|     MALAISE     |                                   |                no, yes            |
+|    ANOREXIA     |                                   |                no, yes            |
+|    LIVER BIG    |                                   |                no, yes            |
+|    LIVER FIRM   |                                   |                no, yes            |
+| SPLEEN PALPABLE |                                   |                no, yes            |
+|     SPIDERS     |                                   |                no, yes            |
+|     ASCITES     |                                   |                no, yes            |
+|     VARICES     |                                   |                no, yes            |
 BILIRUBIN: 0.39, 0.80, 1.20, 2.00, 3.00, 4.00 -- see the note below
 ALK PHOSPHATE: 33, 80, 120, 160, 200, 250
 SGOT: 13, 100, 200, 300, 400, 500,
