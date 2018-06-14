@@ -21,7 +21,7 @@ List of the parameters and the description:
 |     SPIDERS     |                                   |                no, yes            |
 |     ASCITES     |                                   |                no, yes            |
 |     VARICES     |                                   |                no, yes            |
-BILIRUBIN: 0.39, 0.80, 1.20, 2.00, 3.00, 4.00 -- see the note below
+|    BILIRUBIN    |                                   |                                   |
 ALK PHOSPHATE: 33, 80, 120, 160, 200, 250
 SGOT: 13, 100, 200, 300, 400, 500,
 ALBUMIN: 2.1, 3.0, 3.8, 4.5, 5.0, 6.0
