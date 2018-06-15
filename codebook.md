@@ -3,7 +3,7 @@
 
 
 
-List of the parameters and the description:
+List of the parameters and description:
 
 | Variable Name   |           Description             |        Levels                     |
 | --------------- | ----------------------------------| ----------------------------------|
