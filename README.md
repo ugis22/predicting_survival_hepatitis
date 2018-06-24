@@ -21,7 +21,6 @@ The csv file corresponding used herein was downloaded from [Open ML](https://www
 
 ## Analysis
 
-### Objective
 `Prediction of survival in patients with hepatitis.ipynb` perform the following tasks:
 
 * Reads the `CSV file` into a **Pandas DataFrame**.
