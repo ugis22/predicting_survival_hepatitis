@@ -27,7 +27,7 @@ The csv file corresponding used herein was downloaded from [Open ML](https://www
 * Replace the missing values identify with `?` for **Numpy** `NaN`, categorical values `yes` or `no` for `1` or `0` respectively, and converts the diagnostic `LIVE` or `DIE` for the numerical representations: `1` or `0`.
 * *Exploratory Data Analysis*:
     - Checks if dataset suffers of **Class imbalance**
-    - Obtains descriptive statistics
+    - Obtains descriptive statistics summarizing central tendency, dispersion and shape of the dataset’s distribution
     - Creates visuals in order to explore the relationships existent in the dataset
    
 
