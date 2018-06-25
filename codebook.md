@@ -7,7 +7,7 @@ List of the parameters and description:
 
 | Variable Name   |           Description             |        Levels                     |
 | --------------- | ----------------------------------| ----------------------------------|
-|      Class      |                                   |            DIE, LIVE              |
+|      Class      |     Survival of the patient       |            DIE, LIVE              |
 |       AGE       |                                   |   10, 20, 30, 40, 50, 60, 70, 80  |
 |       SEX       |                                   |              male, female         |
 |     STEROID     |                                   |                no, yes            |
@@ -22,7 +22,7 @@ List of the parameters and description:
 |     ASCITES     |                                   |                no, yes            |
 |     VARICES     |                                   |                no, yes            |
 |    BILIRUBIN    |                                   |                                   |
-|  ALK PHOSPHATE  |                                   |     33, 80, 120, 160, 200, 250    |
+|  ALK PHOSPHATE  |  Serum Alkaline Phosphate levels  |     33, 80, 120, 160, 200, 250    |
 |    SGOT         |                                   |    13, 100, 200, 300, 400, 500    |
 |    ALBUMIN      |                                   |    2.1, 3.0, 3.8, 4.5, 5.0, 6.0   |
 |   PROTIME       |                                   | 10, 20, 30, 40, 50, 60, 70, 80, 90|
