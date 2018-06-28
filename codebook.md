@@ -8,7 +8,7 @@ List of the parameters and description:
 | Variable Name   |           Description                   |        Levels                     |
 | --------------- | ----------------------------------------| ----------------------------------|
 |      Class      |        Survival of the patient          |            DIE, LIVE              |
-|       AGE       |                                         |   10, 20, 30, 40, 50, 60, 70, 80  |
+|       AGE       |           Age of the patients           |   10, 20, 30, 40, 50, 60, 70, 80  |
 |       SEX       |                                         |              male, female         |
 |     STEROID     |                                         |                no, yes            |
 |    ANTIVIRALS   |                                         |                no, yes            |
