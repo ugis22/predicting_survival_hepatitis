@@ -15,7 +15,7 @@ List of the parameters and description:
 |     FATIGUE     |     Does the patient suffers fatigue?|  |                no, yes            |
 |     MALAISE     |                                         |                no, yes            |
 |    ANOREXIA     |                                         |                no, yes            |
-|    LIVER BIG    |    Is the liver big?                    |                no, yes            |
+|    LIVER BIG    |      Is the patient's liver  big?       |                no, yes            |
 |    LIVER FIRM   |                                         |                no, yes            |
 | SPLEEN PALPABLE |                                         |                no, yes            |
 |     SPIDERS     |                                         |                no, yes            |
