@@ -12,7 +12,7 @@ List of the parameters and description:
 |       SEX       |           Sex of the patient            |              male, female         |
 |     STEROID     |                                         |                no, yes            |
 |    ANTIVIRALS   |   Patient on Antiviral treatmen         |                no, yes            |
-|     FATIGUE     |                                         |                no, yes            |
+|     FATIGUE     |     Does the patient suffers fatigue?|  |                no, yes            |
 |     MALAISE     |                                         |                no, yes            |
 |    ANOREXIA     |                                         |                no, yes            |
 |    LIVER BIG    |    Is the liver big?                    |                no, yes            |
