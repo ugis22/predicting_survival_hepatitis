@@ -11,7 +11,7 @@ List of the parameters and description:
 |       AGE       |           Age of the patient            |   10, 20, 30, 40, 50, 60, 70, 80  |
 |       SEX       |           Sex of the patient            |              male, female         |
 |     STEROID     |                                         |                no, yes            |
-|    ANTIVIRALS   |                                         |                no, yes            |
+|    ANTIVIRALS   |   Patient on Antiviral treatmen         |                no, yes            |
 |     FATIGUE     |                                         |                no, yes            |
 |     MALAISE     |                                         |                no, yes            |
 |    ANOREXIA     |                                         |                no, yes            |
