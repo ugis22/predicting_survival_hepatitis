@@ -16,7 +16,7 @@ List of the parameters and description:
 |     MALAISE     |                                         |                no, yes            |
 |    ANOREXIA     |                                         |                no, yes            |
 |    LIVER BIG    |      Is the patient's liver  big?       |                no, yes            |
-|    LIVER FIRM   |                                         |                no, yes            |
+|    LIVER FIRM   |            Was liver stiff?             |                no, yes            |
 | SPLEEN PALPABLE |            Was spleen palpable          |                no, yes            |
 |     SPIDERS     |                                         |                no, yes            |
 |     ASCITES     |                                         |                no, yes            |
