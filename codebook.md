@@ -25,5 +25,5 @@ List of the parameters and description:
 |  ALK PHOSPHATE  |  Serum Alkaline Phosphate levels        |     33, 80, 120, 160, 200, 250    |
 |    SGOT         | Serum glutamic oxaloacetic transaminase |    13, 100, 200, 300, 400, 500    |
 |    ALBUMIN      |        Serum levels of Albumin          |    2.1, 3.0, 3.8, 4.5, 5.0, 6.0   |
-|   PROTIME       |                                         | 10, 20, 30, 40, 50, 60, 70, 80, 90|
+|   PROTIME       |           Prothrombin time              | 10, 20, 30, 40, 50, 60, 70, 80, 90|
 |  HISTOLOGY      |                                         |                no, yes            |
