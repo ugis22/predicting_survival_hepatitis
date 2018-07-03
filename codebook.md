@@ -10,7 +10,7 @@ List of the parameters and description:
 |      Class      |        Survival of the patient          |            DIE, LIVE              |
 |       AGE       |           Age of the patient            |   10, 20, 30, 40, 50, 60, 70, 80  |
 |       SEX       |           Sex of the patient            |              male, female         |
-|     STEROID     |                                         |                no, yes            |
+|     STEROID     |    Was the patient reciving steroids?   |                no, yes            |
 |    ANTIVIRALS   |   Patient on Antiviral treatmen         |                no, yes            |
 |     FATIGUE     |     Does the patient suffers fatigue?|  |                no, yes            |
 |     MALAISE     |                                         |                no, yes            |
