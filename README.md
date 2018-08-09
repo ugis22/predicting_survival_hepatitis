@@ -1,9 +1,7 @@
 ## Predicting survival of patients with liver disease
 
-Medium stories:  
-
+Read my publications regarding the project on Medium:  
 * [Part 1](https://medium.com/@meinzaugarat/building-my-first-data-science-project-part-1-exploratory-analysis-9112684badcd)  
-
 * Part 2
 
 ## Introduction
