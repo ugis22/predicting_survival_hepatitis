@@ -1,8 +1,10 @@
 ## Predicting survival of patients with liver disease
 
-Medium stories:
-[Part 1](https://medium.com/@meinzaugarat/building-my-first-data-science-project-part-1-exploratory-analysis-9112684badcd)
-Part 2
+Medium stories:  
+
+* [Part 1](https://medium.com/@meinzaugarat/building-my-first-data-science-project-part-1-exploratory-analysis-9112684badcd)  
+
+* Part 2
 
 ## Introduction
 Prognosis is an important part in the assessment of any disease. Particularly, liver disease has become one of the most common 
