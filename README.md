@@ -2,7 +2,7 @@
 
 Read my publications regarding the project on Medium:  
 * [Part 1](https://medium.com/@meinzaugarat/building-my-first-data-science-project-part-1-exploratory-analysis-9112684badcd)  
-* Part 2
+* [Part 2](https://medium.com/@meinzaugarat/building-my-first-data-science-project-part-2-prediction-cc4d971aa17a)
 
 ## Introduction
 Prognosis is an important part in the assessment of any disease. Particularly, liver disease has become one of the most common 
