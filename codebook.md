@@ -19,7 +19,7 @@ List of the parameters and description:
 |    LIVER FIRM   |            Was liver stiff?             |                no, yes            |
 | SPLEEN PALPABLE |            Was spleen palpable          |                no, yes            |
 |     SPIDERS     |         Has the patient spiders?        |                no, yes            |
-|     ASCITES     |   |                no, yes            |
+|     ASCITES     | Does the patient show signs of ascites  |                no, yes            |
 |     VARICES     |                                         |                no, yes            |
 |    BILIRUBIN    |        Serum Bilirubin values           |                                   |
 |  ALK PHOSPHATE  |  Serum Alkaline Phosphate levels        |     33, 80, 120, 160, 200, 250    |
